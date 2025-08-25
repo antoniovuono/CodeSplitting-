@@ -5,7 +5,7 @@
  * @format
  */
 
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View } from "react-native";
 
 function App() {
   return (
@@ -15,12 +15,12 @@ function App() {
   );
 }
 
-
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
+    justifyContent: "center",
+
+    alignItems: "center",
   },
 });
 
