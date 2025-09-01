@@ -69,5 +69,6 @@ const styles = StyleSheet.create({
   },
   label: {
     color: "white",
+    fontWeight: "bold",
   },
 });
